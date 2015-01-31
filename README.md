@@ -1,0 +1,2 @@
+# goutil
+Go Common Utilities
